@@ -7,7 +7,7 @@
 ## Usage
 
 1. **Execute the Script:**
-    - Initiate the script with the command: `python value_generator.py <exponent>` (optional exponent argument).
+    - Initiate the script with the command: `python LogDumpFreq.py <exponent>` (optional exponent argument).
 2. **Provide Input Parameters:**
     - Enter the desired number of values when prompted.
     - Enter the exponent value (if not provided as an argument).
