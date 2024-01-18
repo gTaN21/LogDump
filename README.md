@@ -4,17 +4,6 @@
 
 **A Python script that generates unique numerical values within a specified range separated by a multiplicative ratio and writes them to a text file.**
 
-## Key Features
-
-- **Unique Value Generation:** 
-    - Employs a set-based approach to guarantee the uniqueness of generated values.
-- **Adaptable Target Points:** 
-    - Accommodates varying target numbers of data points, ensuring flexibility for diverse use cases.
-- **User-Friendly Input:** 
-    - Guides users through the input process with clear prompts and validation.
-- **Informative Output:** 
-    - Provides explicit success messages or detailed adjustment instructions for seamless workflow.
-
 ## Usage
 
 1. **Execute the Script:**
@@ -32,11 +21,4 @@
     - Modify the `start` and `stop` variables within the script to adjust the desired range of generated values.
 - **Target Points:** 
     - Alter the `target_pts` variable to specify a different number of data points to be produced.
-
-## Troubleshooting
-
-- **Invalid Input:** 
-    - The script will prompt the user with an error message for invalid input and request valid values.
-- **Incorrect Number of Points:** 
-    - Experiment with different values for `steps` or `exponent` to achieve the precise number of points required for your application.
 
