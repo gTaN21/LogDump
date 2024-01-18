@@ -1,6 +1,6 @@
  **README.md**
 
-# Value Generator and Text File Writer
+# LogDump
 
 **A Python script that generates unique numerical values within a specified range separated by a multiplicative ratio and writes them to a text file.**
 
