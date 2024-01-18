@@ -2,7 +2,7 @@
 
 # Value Generator and Text File Writer
 
-**A Python script that generates unique numerical values within a specified range and writes them to a text file, ensuring precision and adaptability for various applications.**
+**A Python script that generates unique numerical values within a specified range separated by a multiplicative ratio and writes them to a text file.**
 
 ## Key Features
 
@@ -14,11 +14,6 @@
     - Guides users through the input process with clear prompts and validation.
 - **Informative Output:** 
     - Provides explicit success messages or detailed adjustment instructions for seamless workflow.
-
-## Dependencies
-
-- Python 3.x
-- NumPy (Installation: `pip install numpy`)
 
 ## Usage
 
@@ -45,6 +40,3 @@
 - **Incorrect Number of Points:** 
     - Experiment with different values for `steps` or `exponent` to achieve the precise number of points required for your application.
 
-## License and Contact
-
-[Insert relevant license information and contact details for inquiries or support.]
