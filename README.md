@@ -1,6 +1,6 @@
 # LogDump
 
-# Data Generation Script
+## Data Generation Script
 
 This Python script generates a set of unique values within a specified range and saves them to a file. 
 The goal is to create a dataset with a predefined number of unique data points.
